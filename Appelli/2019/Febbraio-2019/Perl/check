@@ -1,0 +1,49 @@
+#Schedina 1#
+Roma-Torino             X       1.5 --> NO
+Udinese-Parma           1       2.0 --> NO
+Inter-Sassuolo          X       3.0 --> OK
+Frosinone-Atalanta      2       1.5 --> OK
+Spal-Bologna            X       2.0 --> OK
+#Importo Scommesso: 10
+#Moltiplicatore: 27
+#Possibile Vincita: 270
+#Vincita: NO
+
+#Schedina 2#
+Juventus-Chievo         1       1.5 --> OK
+Genoa-Milan             2       2.0 --> OK
+Napoli-Lazio            1       1.5 --> OK
+Frosinone-Atalanta      2       2.5 --> OK
+#Importo Scommesso: 5
+#Moltiplicatore: 11.25
+#Possibile Vincita: 56.25
+#Vincita: SI
+
+#Schedina 3#
+Lazio-Empoli            X       1.5 --> NO
+Bologna-Genoa           1       2.0 --> NO
+Chievo-Roma             X       3.0 --> NO
+Sampdoria-Frosinone     2       1.5 --> OK
+Torino-Udinese          X       2.0 --> NO
+Sassuolo-Juventus       1       7.0 --> NO
+#Importo Scommesso: 5
+#Moltiplicatore: 189
+#Possibile Vincita: 945
+#Vincita: NO
+
+#Schedina 4#
+Lazio-Empoli            1       1.5 --> OK
+Chievo-Roma             2       2.5 --> OK
+Fiorentina-Napoli       X       3.0 --> OK
+Parma-Inter             2       1.5 --> OK
+Bologna-Genoa           X       1.5 --> OK
+Sampdoria-Frosinone     2       3.5 --> OK
+Atalanta-Spal           1       1.5 --> OK
+Torino-Udinese          1       2.0 --> OK
+Sassuolo-Juventus       2       1.5 --> OK
+Milan-Cagliari          1       1.5 --> OK
+#Importo Scommesso: 10
+#Moltiplicatore: 598.0078125
+#Possibile Vincita: 5980.078125
+#Vincita: SI
+

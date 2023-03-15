@@ -1,0 +1,6 @@
+Sep  2 06:25:12 server sshd[15334]: Failed password for invalid user lyssa from 103.228.55.79 port 45462 ssh2
+Sep  2 06:25:12 server sshd[15334]: Received disconnect from​​103.228.55.79​ port 45462:11: Bye Bye [preauth]
+Sep  2 06:25:12 server sshd[15334]: Disconnected from invalid user lyssa​​103.228.55.79​ port 45462 [preauth]
+Sep  2 06:25:16 server sshd[15336]: Invalid user test from​​45.55.35.40​ port 33438
+Sep  2 06:25:16 server sshd[15336]: pam_unix(sshd:auth): check pass; user unknown
+Sep  2 06:25:16serversshd[15336]:pam_unix(sshd:auth):authenticationfailure;logname=uid=0euid=0tty=sshruser=rhost=​45.55.35.40

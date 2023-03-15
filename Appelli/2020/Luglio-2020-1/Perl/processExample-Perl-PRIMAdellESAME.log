@@ -1,0 +1,269 @@
+F S UID        PID  PPID  C PRI  NI ADDR SZ WCHAN  STIME TTY          TIME CMD
+4 S root         1     0  0  80   0 - 51174 -      11:57 ?        00:00:01 /sbin/init
+1 S root         2     0  0  80   0 -     0 -      11:57 ?        00:00:00 [kthreadd]
+1 S root         3     2  0  80   0 -     0 -      11:57 ?        00:00:00 [ksoftirqd/0]
+1 S root         5     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kworker/0:0H]
+1 S root         7     2  0  80   0 -     0 -      11:57 ?        00:00:02 [rcu_sched]
+1 S root         8     2  0  80   0 -     0 -      11:57 ?        00:00:00 [rcu_bh]
+1 S root         9     2  0 -40   - -     0 -      11:57 ?        00:00:00 [migration/0]
+1 S root        10     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [lru-add-drain]
+5 S root        11     2  0 -40   - -     0 -      11:57 ?        00:00:00 [watchdog/0]
+1 S root        12     2  0  80   0 -     0 -      11:57 ?        00:00:00 [cpuhp/0]
+1 S root        13     2  0  80   0 -     0 -      11:57 ?        00:00:00 [cpuhp/1]
+5 S root        14     2  0 -40   - -     0 -      11:57 ?        00:00:00 [watchdog/1]
+1 S root        15     2  0 -40   - -     0 -      11:57 ?        00:00:00 [migration/1]
+1 S root        16     2  0  80   0 -     0 -      11:57 ?        00:00:00 [ksoftirqd/1]
+1 S root        18     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kworker/1:0H]
+1 S root        19     2  0  80   0 -     0 -      11:57 ?        00:00:00 [cpuhp/2]
+5 S root        20     2  0 -40   - -     0 -      11:57 ?        00:00:00 [watchdog/2]
+1 S root        21     2  0 -40   - -     0 -      11:57 ?        00:00:00 [migration/2]
+1 S root        22     2  0  80   0 -     0 -      11:57 ?        00:00:00 [ksoftirqd/2]
+1 S root        24     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kworker/2:0H]
+1 S root        25     2  0  80   0 -     0 -      11:57 ?        00:00:00 [cpuhp/3]
+5 S root        26     2  0 -40   - -     0 -      11:57 ?        00:00:00 [watchdog/3]
+1 S root        27     2  0 -40   - -     0 -      11:57 ?        00:00:00 [migration/3]
+1 S root        28     2  0  80   0 -     0 -      11:57 ?        00:00:00 [ksoftirqd/3]
+1 S root        30     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kworker/3:0H]
+1 S root        31     2  0  80   0 -     0 -      11:57 ?        00:00:00 [cpuhp/4]
+5 S root        32     2  0 -40   - -     0 -      11:57 ?        00:00:00 [watchdog/4]
+1 S root        33     2  0 -40   - -     0 -      11:57 ?        00:00:00 [migration/4]
+1 S root        34     2  0  80   0 -     0 -      11:57 ?        00:00:00 [ksoftirqd/4]
+1 S root        36     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kworker/4:0H]
+1 S root        37     2  0  80   0 -     0 -      11:57 ?        00:00:00 [cpuhp/5]
+5 S root        38     2  0 -40   - -     0 -      11:57 ?        00:00:00 [watchdog/5]
+1 S root        39     2  0 -40   - -     0 -      11:57 ?        00:00:00 [migration/5]
+1 S root        40     2  0  80   0 -     0 -      11:57 ?        00:00:00 [ksoftirqd/5]
+1 S root        42     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kworker/5:0H]
+1 S root        43     2  0  80   0 -     0 -      11:57 ?        00:00:00 [cpuhp/6]
+5 S root        44     2  0 -40   - -     0 -      11:57 ?        00:00:00 [watchdog/6]
+1 S root        45     2  0 -40   - -     0 -      11:57 ?        00:00:00 [migration/6]
+1 S root        46     2  0  80   0 -     0 -      11:57 ?        00:00:00 [ksoftirqd/6]
+1 S root        48     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kworker/6:0H]
+1 S root        49     2  0  80   0 -     0 -      11:57 ?        00:00:00 [cpuhp/7]
+5 S root        50     2  0 -40   - -     0 -      11:57 ?        00:00:00 [watchdog/7]
+1 S root        51     2  0 -40   - -     0 -      11:57 ?        00:00:00 [migration/7]
+1 S root        52     2  0  80   0 -     0 -      11:57 ?        00:00:00 [ksoftirqd/7]
+1 S root        54     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kworker/7:0H]
+5 S root        55     2  0  80   0 -     0 -      11:57 ?        00:00:00 [kdevtmpfs]
+1 S root        56     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [netns]
+1 S root        57     2  0  80   0 -     0 -      11:57 ?        00:00:00 [khungtaskd]
+1 S root        58     2  0  80   0 -     0 -      11:57 ?        00:00:00 [oom_reaper]
+1 S root        59     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [writeback]
+1 S root        60     2  0  80   0 -     0 -      11:57 ?        00:00:00 [kcompactd0]
+1 S root        62     2  0  85   5 -     0 -      11:57 ?        00:00:00 [ksmd]
+1 S root        63     2  0  99  19 -     0 -      11:57 ?        00:00:00 [khugepaged]
+1 S root        64     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [crypto]
+1 S root        65     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kintegrityd]
+1 S root        66     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [bioset]
+1 S root        67     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kblockd]
+1 S root        70     2  0  80   0 -     0 -      11:57 ?        00:00:00 [kworker/3:1]
+1 S root        71     2  0  80   0 -     0 -      11:57 ?        00:00:00 [kworker/4:1]
+1 S root        72     2  0  80   0 -     0 -      11:57 ?        00:00:00 [kworker/5:1]
+1 S root        75     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [devfreq_wq]
+1 S root        77     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [watchdogd]
+1 S root        78     2  0  80   0 -     0 -      11:57 ?        00:00:00 [kswapd0]
+1 S root        79     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [vmstat]
+1 S root        91     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kthrotld]
+1 S root        92     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [ipv6_addrconf]
+1 S root       122     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [acpi_thermal_pm]
+1 S root       132     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [ata_sff]
+1 S root       170     2  0  80   0 -     0 -      11:57 ?        00:00:00 [scsi_eh_0]
+1 S root       171     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [scsi_tmf_0]
+1 S root       172     2  0  80   0 -     0 -      11:57 ?        00:00:00 [scsi_eh_1]
+1 S root       173     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [scsi_tmf_1]
+1 S root       174     2  0  80   0 -     0 -      11:57 ?        00:00:00 [scsi_eh_2]
+1 S root       175     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [scsi_tmf_2]
+1 S root       176     2  0  80   0 -     0 -      11:57 ?        00:00:00 [scsi_eh_3]
+1 S root       177     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [scsi_tmf_3]
+1 S root       178     2  0  80   0 -     0 -      11:57 ?        00:00:00 [scsi_eh_4]
+1 S root       179     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [scsi_tmf_4]
+1 S root       180     2  0  80   0 -     0 -      11:57 ?        00:00:00 [scsi_eh_5]
+1 S root       181     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [scsi_tmf_5]
+1 S root       187     2  0  80   0 -     0 -      11:57 ?        00:00:00 [kworker/2:2]
+1 S root       189     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [bioset]
+1 S root       192     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [bioset]
+1 S root       200     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kworker/2:1H]
+1 S root       201     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kworker/6:1H]
+1 S root       202     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kworker/3:1H]
+1 S root       203     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kworker/7:1H]
+1 S root       204     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kworker/0:1H]
+1 S root       205     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kworker/4:1H]
+1 S root       206     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kworker/5:1H]
+1 S root       207     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kworker/1:1H]
+1 S root       230     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kworker/u17:0]
+1 S root       236     2  0  80   0 -     0 -      11:57 ?        00:00:00 [jbd2/sdb1-8]
+1 S root       237     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [ext4-rsv-conver]
+4 S root       267     1  0  80   0 - 11553 -      11:57 ?        00:00:00 /lib/systemd/systemd-journald
+1 S root       275     2  0  80   0 -     0 -      11:57 ?        00:00:00 [kauditd]
+1 D root       279     2  0  80   0 -     0 -      11:57 ?        00:00:00 [kworker/7:2]
+4 S root       282     1  0  80   0 - 11895 -      11:57 ?        00:00:00 /lib/systemd/systemd-udevd
+4 S root       305     1  0  80   0 - 24750 -      11:57 ?        00:00:00 /sbin/lvmetad -f
+1 S root       327     2  0  80   0 -     0 -      11:57 ?        00:00:00 [nvidia-modeset]
+4 S systemd+   367     1  0  80   0 - 32356 -      11:57 ?        00:00:00 /lib/systemd/systemd-timesyncd
+1 S root       379     2  0   9   - -     0 -      11:57 ?        00:00:00 [irq/20-smo8800]
+1 S root       382     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [edac-poller]
+1 S root       403     2  0  58   - -     0 -      11:57 ?        00:00:00 [i915/signal:0]
+1 S root       404     2  0  58   - -     0 -      11:57 ?        00:00:00 [i915/signal:1]
+1 S root       405     2  0  58   - -     0 -      11:57 ?        00:00:00 [i915/signal:2]
+1 S root       406     2  0  58   - -     0 -      11:57 ?        00:00:00 [i915/signal:4]
+1 S root       408     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [kmemstick]
+1 S root       409     2  0   9   - -     0 -      11:57 ?        00:00:00 [irq/34-mei_me]
+1 S root       411     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [cfg80211]
+1 S root       422     2  0   9   - -     0 -      11:57 ?        00:00:00 [irq/37-iwlwifi]
+4 S root       467     1  0  80   0 -  8974 -      11:57 ?        00:00:00 /usr/sbin/irqbalance --foreground
+1 S root       468     2  0  60 -20 -     0 -      11:57 ?        00:00:01 [kworker/u17:1]
+4 S daemon     469     1  0  80   0 -  6991 -      11:57 ?        00:00:00 /usr/sbin/atd -f
+4 S root       470     1  0  80   0 - 24371 -      11:57 ?        00:00:00 /usr/sbin/cupsd -l
+4 S avahi      471     1  0  80   0 - 11784 -      11:57 ?        00:00:00 avahi-daemon: running [francesco.local]
+4 S message+   474     1  0  80   0 - 11598 -      11:57 ?        00:00:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+1 S avahi      478   471  0  80   0 - 11753 -      11:57 ?        00:00:00 avahi-daemon: chroot helper
+4 S root       482     1  0  80   0 -  7416 -      11:57 ?        00:00:00 /usr/sbin/cron -f
+4 S root       484     1  0  80   0 - 70980 -      11:57 ?        00:00:00 /usr/lib/accountsservice/accounts-daemon
+4 S root       488     1  0  80   0 - 105647 -     11:57 ?        00:00:00 /usr/sbin/ModemManager
+4 S root       490     1  0  80   0 - 66685 -      11:57 ?        00:00:00 /usr/sbin/iio-sensor-proxy
+4 S root       492     1  0  80   0 - 11638 -      11:57 ?        00:00:00 /lib/systemd/systemd-logind
+4 S root       493     1  0  80   0 - 64649 -      11:57 ?        00:00:00 /usr/sbin/cups-browsed
+4 S root       510     1  0  80   0 - 138981 -     11:57 ?        00:00:01 /usr/sbin/NetworkManager --no-daemon
+4 S rtkit      511     1  0  81   1 - 46437 -      11:57 ?        00:00:00 /usr/lib/rtkit/rtkit-daemon
+4 S root       512     1  0  80   0 - 62530 -      11:57 ?        00:00:00 /usr/sbin/rsyslogd -n
+4 S colord     541     1  0  80   0 - 78677 -      11:57 ?        00:00:00 /usr/lib/colord/colord
+4 S root       574     1  0  80   0 - 72109 -      11:57 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+4 S uml-net    625     1  0  80   0 -  1045 -      11:57 ?        00:00:00 /usr/bin/uml_switch -unix /var/run/uml-utilities/uml_switch.ctl
+1 S root       669     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [iprt-VBoxWQueue]
+1 S root       683     2  0  80   0 -     0 -      11:57 ?        00:00:00 [iprt-VBoxTscThr]
+1 S root       705     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [hci0]
+1 S root       706     2  0  60 -20 -     0 -      11:57 ?        00:00:00 [hci0]
+4 S root       709     1  0  80   0 -  9211 -      11:57 ?        00:00:06 /usr/lib/bluetooth/bluetoothd
+4 S root       867     1  0  80   0 - 11591 -      11:57 ?        00:00:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+4 S root       959     1  0  80   0 - 208762 -     11:57 ?        00:00:00 /usr/sbin/libvirtd
+4 S root       961     1  0  80   0 -  3631 -      11:57 tty1     00:00:00 /sbin/agetty --noclear tty1 linux
+4 S root       978     1  0  80   0 - 227152 -     11:57 ?        00:00:00 /usr/bin/containerd
+4 S root       981     1  0  80   0 - 90921 -      11:57 ?        00:00:00 /usr/sbin/lightdm
+4 S root      1000   981  1  80   0 - 88066 -      11:57 tty7     00:00:40 /usr/lib/xorg/Xorg :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+4 S lightdm   1110     1  0  80   0 - 16265 -      11:57 ?        00:00:00 /lib/systemd/systemd --user
+5 S lightdm   1114  1110  0  80   0 - 42202 -      11:57 ?        00:00:00 (sd-pam)
+0 S lightdm   1125  1110  0  80   0 - 11277 -      11:57 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation
+0 S lightdm   1134     1  0  80   0 - 55053 -      11:57 ?        00:00:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+0 S lightdm   1139  1110  0  80   0 - 71101 -      11:57 ?        00:00:00 /usr/lib/gvfs/gvfsd
+0 S lightdm   1144  1110  0  80   0 - 88038 -      11:57 ?        00:00:00 /usr/lib/gvfs/gvfsd-fuse /run/user/116/gvfs -f -o big_writes
+4 S root      1162   981  0  80   0 - 60870 -      11:57 ?        00:00:00 lightdm --session-child 12 19
+4 S root      1163   510  0  80   0 -  5121 -      11:57 ?        00:00:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /var/run/dhclient-enx9cebe81cd76a.pid -lf /var/lib/NetworkManager/dhclient-59a0207b-85aa-491a-9058-767bdc3a6ddc-enx9cebe81cd76a.lease -cf /var/lib/NetworkManager/dhclient-enx9cebe81cd76a.conf enx9cebe81cd76a
+4 S root      1270   510  0  80   0 -  5121 -      11:57 ?        00:00:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /var/run/dhclient-wlp6s0.pid -lf /var/lib/NetworkManager/dhclient-940529f9-d266-4874-840b-1617fe5d0a52-wlp6s0.lease -cf /var/lib/NetworkManager/dhclient-wlp6s0.conf wlp6s0
+4 S root      1376     1  0  80   0 - 255344 -     11:57 ?        00:00:00 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+5 S root      1381     1  0  80   0 -  1045 -      11:57 ?        00:00:00 /usr/sbin/minissdpd -i 0.0.0.0
+5 S root      1391     1  0  80   0 - 348359 -     11:57 ?        00:00:02 /opt/teamviewer/tv_bin/teamviewerd -d
+5 S Debian-+  1693     1  0  80   0 - 15126 -      11:57 ?        00:00:00 /usr/sbin/exim4 -bd -q30m
+4 S frances+  1904     1  0  80   0 - 16268 SyS_ep 12:01 ?        00:00:00 /lib/systemd/systemd --user
+5 S frances+  1905  1904  0  80   0 - 42209 -      12:01 ?        00:00:00 (sd-pam)
+1 S frances+  1911     1  0  80   0 - 53357 -      12:01 ?        00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+4 S frances+  1913  1162  0  80   0 - 105933 SyS_po 12:01 ?       00:00:00 x-session-manager
+0 S frances+  1921  1904  0  80   0 - 11430 SyS_ep 12:01 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation
+1 S frances+  1963  1913  0  80   0 -  2773 -      12:01 ?        00:00:00 /usr/bin/ssh-agent /usr/bin/im-launch x-session-manager
+1 S frances+  1980     1  0  80   0 - 107300 SyS_po 12:01 ?       00:00:05 /usr/bin/ibus-daemon --daemonize --xim
+0 S frances+  1983  1904  0  80   0 - 71101 SyS_po 12:01 ?        00:00:00 /usr/lib/gvfs/gvfsd
+0 S frances+  1989  1904  0  80   0 - 104422 -     12:01 ?        00:00:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+0 S frances+  1993  1980  0  80   0 - 68520 SyS_po 12:01 ?        00:00:00 /usr/lib/ibus/ibus-dconf
+0 S frances+  1995  1980  0  80   0 - 101733 SyS_po 12:01 ?       00:00:01 /usr/lib/ibus/ibus-ui-gtk3
+0 S frances+  2002     1  0  80   0 - 80011 SyS_po 12:01 ?        00:00:03 /usr/lib/ibus/ibus-x11 --kill-daemon
+0 S frances+  2006  1904  0  80   0 - 87223 SyS_po 12:01 ?        00:00:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+0 S frances+  2013  2006  0  80   0 - 11280 SyS_ep 12:01 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+0 S frances+  2015  1904  0  80   0 - 55053 SyS_po 12:01 ?        00:00:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+0 S frances+  2033  1913  0  80   0 - 279595 SyS_po 12:01 ?       00:00:03 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/cinnamon-settings-daemon
+1 S frances+  2047     1  0  69 -11 - 441148 SyS_pp 12:01 ?       00:00:01 /usr/bin/pulseaudio --start --log-target=syslog
+4 S root      2048     1  0  80   0 - 77687 -      12:01 ?        00:00:00 /usr/lib/upower/upowerd
+0 S frances+  2052  1980  0  80   0 - 49585 SyS_po 12:01 ?        00:00:01 /usr/lib/ibus/ibus-engine-simple
+5 S root      2089     2  0  70 -10 -     0 -      12:01 ?        00:00:00 [krfcommd]
+0 S frances+  2094  1904  0  80   0 - 46911 SyS_po 12:01 ?        00:00:00 /usr/lib/dconf/dconf-service
+0 S frances+  2097  1904  0  80   0 - 88918 SyS_po 12:01 ?        00:00:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+4 S root      2100     1  0  80   0 - 93900 -      12:01 ?        00:00:00 /usr/lib/udisks2/udisksd --no-debug
+0 S frances+  2107  1904  0  80   0 - 67395 SyS_po 12:01 ?        00:00:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+0 S frances+  2111  1904  0  80   0 - 193821 SyS_po 12:01 ?       00:00:00 /usr/lib/gnome-online-accounts/goa-daemon
+0 S frances+  2119  1904  0  80   0 - 74024 SyS_po 12:01 ?        00:00:00 /usr/lib/gnome-online-accounts/goa-identity-service
+0 S frances+  2124  1904  0  80   0 - 70446 SyS_po 12:01 ?        00:00:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+0 S frances+  2128  1904  0  80   0 - 92562 SyS_po 12:01 ?        00:00:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+0 S frances+  2133  1904  0  80   0 - 67396 SyS_po 12:01 ?        00:00:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+0 S frances+  2137  1913  0  80   0 - 45497 -      12:01 ?        00:00:00 /usr/bin/python3 /usr/bin/cinnamon-launcher
+0 S frances+  2140     1  0  80   0 - 123826 SyS_po 12:01 ?       00:00:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-printer
+0 S frances+  2144  2137  2  80   0 - 471216 SyS_po 12:01 ?       00:01:04 cinnamon --replace
+0 S frances+  2152  1913  0  80   0 - 297285 SyS_po 12:01 ?       00:00:01 nemo -n
+0 S frances+  2153  1913  0  80   0 - 101811 SyS_po 12:01 ?       00:00:00 /usr/bin/python3 /usr/bin/cinnamon-killer-daemon
+0 S frances+  2155  1913  0  80   0 - 80426 SyS_po 12:01 ?        00:00:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+0 S frances+  2157  1913  0  80   0 - 127743 SyS_po 12:01 ?       00:00:00 nm-applet
+0 S frances+  2158  1913  0  80   0 - 138393 SyS_po 12:01 ?       00:00:00 /usr/bin/python3 /usr/bin/blueman-applet
+1 S frances+  2177     1  0  80   0 - 26783 SyS_po 12:01 ?        00:00:00 /usr/bin/xbindkeys -f /home/francesco/.xbindkeysrc
+0 S frances+  2182  1904  0  80   0 - 90166 SyS_po 12:01 ?        00:00:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.6 /org/gtk/gvfs/exec_spaw/0
+0 S frances+  2195  1904  0  80   0 - 48878 SyS_po 12:01 ?        00:00:00 /usr/lib/gvfs/gvfsd-metadata
+0 S frances+  2204  1904  0  80   0 - 21155 SyS_po 12:01 ?        00:00:00 /usr/lib/bluetooth/obexd
+0 S frances+  2237  1913  0  80   0 - 164624 SyS_po 12:01 ?       00:00:00 cinnamon-screensaver
+0 S frances+  2249     1  0  80   0 - 203579 SyS_po 12:02 ?       00:00:23 /usr/share/code/code --no-sandbox --unity-launch /home/francesco/Scrivania/Esami/2020/Luglio-1_2020
+0 S frances+  2252  2249  0  80   0 - 80791 SyS_pp 12:02 ?        00:00:00 /usr/share/code/code --type=zygote --no-sandbox
+0 S frances+  2277  2249  1  80   0 - 122842 -     12:02 ?        00:00:51 /usr/share/code/code --type=gpu-process --field-trial-handle=12004602126154589817,9279659907699993992,131072 --disable-features=LayoutNG,PictureInPicture,SpareRendererForSitePerProcess --disable-color-correct-rendering --no-sandbox --gpu-preferences=KAAAAAAAAAAgAAAgAAAAAAAAYAAAAAAAEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA --service-request-channel-token=4183576111458447746
+0 S frances+  2287  2249  0  80   0 - 103037 -     12:02 ?        00:00:00 /usr/share/code/code --type=utility --field-trial-handle=12004602126154589817,9279659907699993992,131072 --disable-features=LayoutNG,PictureInPicture,SpareRendererForSitePerProcess --lang=it --service-sandbox-type=network --no-sandbox --standard-schemes=vscode-webview-resource --secure-schemes=vscode-resource,vscode-webview-resource --bypasscsp-schemes --cors-schemes=vscode-resource,vscode-webview-resource --fetch-schemes=vscode-resource,vscode-webview-resource --service-worker-schemes --service-request-channel-token=15231152829385915091 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+0 S frances+  2297  2249  4  80   0 - 3169763 -    12:02 ?        00:02:22 /usr/share/code/code --type=renderer --disable-color-correct-rendering --no-sandbox --field-trial-handle=12004602126154589817,9279659907699993992,131072 --disable-features=LayoutNG,PictureInPicture,SpareRendererForSitePerProcess --lang=it --standard-schemes=vscode-webview-resource --secure-schemes=vscode-resource,vscode-webview-resource --bypasscsp-schemes --cors-schemes=vscode-resource,vscode-webview-resource --fetch-schemes=vscode-resource,vscode-webview-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --webview-tag --no-sandbox --no-zygote --preload=/usr/share/code/resources/app/out/vs/base/parts/sandbox/electron-browser/preload.js --background-color=#ffffff --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=11631221436378837442 --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+0 S frances+  2337  2297  0  80   0 - 168404 SyS_ep 12:02 ?       00:00:04 /usr/share/code/code --inspect-port=0 /usr/share/code/resources/app/out/bootstrap-fork --type=extensionHost
+0 R frances+  2346  2297  0  80   0 - 135303 -     12:02 ?        00:00:00 /usr/share/code/code /usr/share/code/resources/app/out/bootstrap-fork --type=watcherService
+0 S frances+  2368  2297  0  80   0 - 136813 SyS_ep 12:02 ?       00:00:00 /usr/share/code/code /usr/share/code/resources/app/out/bootstrap-fork --type=searchService
+0 S frances+  2421  2249  0  80   0 - 186272 -     12:02 ?        00:00:03 /usr/share/code/code --type=renderer --disable-color-correct-rendering --no-sandbox --field-trial-handle=12004602126154589817,9279659907699993992,131072 --disable-features=LayoutNG,PictureInPicture,SpareRendererForSitePerProcess --lang=it --standard-schemes=vscode-webview-resource --secure-schemes=vscode-resource,vscode-webview-resource --bypasscsp-schemes --cors-schemes=vscode-resource,vscode-webview-resource --fetch-schemes=vscode-resource,vscode-webview-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --preload=/usr/share/code/resources/app/out/vs/base/parts/sandbox/electron-browser/preload.js --background-color=#ffffff --disable-blink-features=Auxclick --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=11884869075344244887 --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+0 S frances+  2472     1  1  80   0 - 950801 SyS_po 12:03 ?       00:00:53 /usr/share/teams/teams
+0 S frances+  2474  2472  0  80   0 - 90324 SyS_pp 12:03 ?        00:00:00 /usr/share/teams/teams --type=zygote --no-sandbox
+0 S frances+  2508  2472  0  80   0 - 224612 SyS_po 12:03 ?       00:00:01 /usr/share/teams/teams --type=gpu-process --enable-features=SharedArrayBuffer --disable-features=SpareRendererForSitePerProcess --gpu-preferences=KAAAAAAAAACAAABAAQAAAAAAAAAAAGAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --service-request-channel-token=7580626285740390739
+1 S frances+  2514  2508  0  80   0 - 118429 skb_wa 12:03 ?       00:00:00 /usr/share/teams/teams --type=-broker
+1 S frances+  2535  2474  0  80   0 - 412386 -     12:03 ?        00:00:00 /usr/share/teams/teams --type=renderer --autoplay-policy=no-user-gesture-required --enable-features=SharedArrayBuffer --disable-features=SpareRendererForSitePerProcess --service-pipe-token=9365557097136669797 --lang=it --app-path=/usr/share/teams/resources/app.asar --user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) MicrosoftTeams-Preview/1.3.00.5153 Chrome/69.0.3497.128 Electron/4.2.12 Safari/537.36 --node-integration=false --webview-tag=false --no-sandbox --preload=/usr/share/teams/resources/app.asar/lib/renderer/notifications/preload_notifications.js --disable-remote-module --background-color=#fff --electron-shared-settings=eyJjci5jb21wYW55IjoiRWxlY3Ryb24iLCJjci5kdW1wcyI6IiIsImNyLmVuYWJsZWQiOmZhbHNlLCJjci5wcm9kdWN0IjoiRWxlY3Ryb24iLCJjci5zZXNzaW9uIjoiIiwiY3IudXJsIjoiIiwiY3IudmVyc2lvbiI6InY0LjIuMTIifQ== --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=9365557097136669797 --renderer-client-id=7 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101 --msteams-process-type=notificationsManager
+1 S frances+  2592  2474  1  80   0 - 769401 -     12:03 ?        00:00:59 /usr/share/teams/teams --type=renderer --autoplay-policy=no-user-gesture-required --enable-features=SharedArrayBuffer --disable-features=SpareRendererForSitePerProcess --service-pipe-token=7946263770258432345 --lang=it --app-path=/usr/share/teams/resources/app.asar --user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) MicrosoftTeams-Preview/1.3.00.5153 Chrome/69.0.3497.128 Electron/4.2.12 Safari/537.36 --node-integration=false --webview-tag=true --no-sandbox --preload=/usr/share/teams/resources/app.asar/lib/renderer/preload.js --disable-remote-module --background-color=#fff --electron-shared-settings=eyJjci5jb21wYW55IjoiRWxlY3Ryb24iLCJjci5kdW1wcyI6IiIsImNyLmVuYWJsZWQiOmZhbHNlLCJjci5wcm9kdWN0IjoiRWxlY3Ryb24iLCJjci5zZXNzaW9uIjoiIiwiY3IudXJsIjoiIiwiY3IudmVyc2lvbiI6InY0LjIuMTIifQ== --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=7946263770258432345 --renderer-client-id=10 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101 --msteams-process-type=mainWindow
+1 S frances+  2658  2474  0  80   0 - 1042564 -    12:03 ?        00:00:03 /usr/share/teams/teams --type=renderer --autoplay-policy=no-user-gesture-required --enable-features=SharedArrayBuffer --disable-features=SpareRendererForSitePerProcess --service-pipe-token=8706855057312168935 --lang=it --app-path=/usr/share/teams/resources/app.asar --user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) MicrosoftTeams-Preview/1.3.00.5153 Chrome/69.0.3497.128 Electron/4.2.12 Safari/537.36 --node-integration=false --webview-tag=false --no-sandbox --preload=/usr/share/teams/resources/app.asar/lib/pluginhost/preload.js --disable-remote-module --background-color=#fff --electron-shared-settings=eyJjci5jb21wYW55IjoiRWxlY3Ryb24iLCJjci5kdW1wcyI6IiIsImNyLmVuYWJsZWQiOmZhbHNlLCJjci5wcm9kdWN0IjoiRWxlY3Ryb24iLCJjci5zZXNzaW9uIjoiIiwiY3IudXJsIjoiIiwiY3IudmVyc2lvbiI6InY0LjIuMTIifQ== --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=8706855057312168935 --renderer-client-id=15 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101 --msteams-process-type=pluginHost
+1 S root      2863     2  0  80   0 -     0 -      12:09 ?        00:00:00 [kworker/6:1]
+0 S frances+  2888  1904  0  80   0 - 122225 SyS_po 12:10 ?       00:00:05 /usr/lib/gnome-terminal/gnome-terminal-server
+0 S frances+  2892  2888  0  80   0 -  5383 -      12:10 pts/0    00:00:00 bash
+0 S frances+  2912  2144  1  80   0 - 277196 SyS_po 12:12 ?       00:00:34 /opt/google/chrome/chrome
+0 S frances+  2919  2912  0  80   0 -  1492 -      12:12 ?        00:00:00 cat
+0 S frances+  2920  2912  0  80   0 -  1492 -      12:12 ?        00:00:00 cat
+4 S frances+  2922  2912  0  80   0 -  2174 -      12:12 ?        00:00:00 /opt/google/chrome/chrome-sandbox /opt/google/chrome/chrome --type=zygote
+4 S frances+  2923  2922  0  80   0 - 113146 -     12:12 ?        00:00:00 /opt/google/chrome/chrome --type=zygote
+4 S frances+  2925  2923  0  80   0 -  2174 -      12:12 ?        00:00:00 /opt/google/chrome/chrome-sandbox /opt/google/chrome/nacl_helper
+4 S frances+  2926  2925  0  80   0 -  6603 -      12:12 ?        00:00:00 /opt/google/chrome/nacl_helper
+1 S frances+  2928  2923  0  80   0 - 113146 -     12:12 ?        00:00:00 /opt/google/chrome/chrome --type=zygote
+0 S frances+  2947  2912  0  80   0 - 157987 SyS_po 12:12 ?       00:00:14 /opt/google/chrome/chrome --type=gpu-process --field-trial-handle=13675598356951988841,17481635169492445700,131072 --gpu-preferences=MAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA= --shared-files
+0 S frances+  2952  2912  0  80   0 - 137066 -     12:12 ?        00:00:04 /opt/google/chrome/chrome --type=utility --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --service-sandbox-type=network --disable-webrtc-apm-in-audio-service --shared-files
+1 S frances+  2963  2947  0  80   0 - 119566 skb_wa 12:12 ?       00:00:00 /opt/google/chrome/chrome --type=broker
+1 S frances+  2982  2928  0  80   0 - 1198977 -    12:12 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=16 --no-v8-untrusted-code-mitigations --shared-files
+1 S frances+  2985  2928  0  80   0 - 1212226 -    12:12 ?        00:00:04 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=15 --no-v8-untrusted-code-mitigations --shared-files
+1 S frances+  3050  2928  0  80   0 - 1195649 -    12:12 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --extension-process --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --no-v8-untrusted-code-mitigations --shared-files
+1 S frances+  3067  2928  0  80   0 - 3827841 -    12:12 ?        00:00:02 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --extension-process --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files
+1 S frances+  3082  2928  0  80   0 - 1206469 -    12:12 ?        00:00:01 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --extension-process --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files
+1 S frances+  3087  2928  0  80   0 - 1206979 -    12:12 ?        00:00:01 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --extension-process --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files
+1 S frances+  3111  2928  0  80   0 - 1192830 -    12:12 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --extension-process --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=8 --no-v8-untrusted-code-mitigations --shared-files
+1 S frances+  3114  2928  0  80   0 - 1221211 -    12:12 ?        00:00:07 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --extension-process --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=9 --no-v8-untrusted-code-mitigations --shared-files
+1 S frances+  3124  2928  0  80   0 - 1192318 -    12:12 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --extension-process --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=10 --no-v8-untrusted-code-mitigations --shared-files
+1 S frances+  3149  2928  0  80   0 - 1193342 -    12:12 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --extension-process --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=11 --no-v8-untrusted-code-mitigations --shared-files
+1 S frances+  3164  2928  0  80   0 - 1204884 -    12:12 ?        00:00:01 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --extension-process --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=12 --no-v8-untrusted-code-mitigations --shared-files
+1 S frances+  3186  2928  0  80   0 - 1192318 -    12:12 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --extension-process --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=13 --no-v8-untrusted-code-mitigations --shared-files
+1 S frances+  3239  2928  0  80   0 - 1214131 -    12:12 ?        00:00:02 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=18 --no-v8-untrusted-code-mitigations --shared-files
+1 S frances+  3392  2928  0  80   0 - 1204437 -    12:12 ?        00:00:01 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=23 --no-v8-untrusted-code-mitigations --shared-files
+1 S frances+  3571  2928  0  80   0 - 1210385 -    12:14 ?        00:00:02 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --instant-process --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=30 --no-v8-untrusted-code-mitigations --shared-files
+1 S frances+  3950  2928  0  80   0 - 2301736 -    12:19 ?        00:00:16 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=51 --no-v8-untrusted-code-mitigations --shared-files
+0 S frances+  4201  2912  0  80   0 - 189641 -     12:22 ?        00:00:00 /opt/google/chrome/chrome --type=utility --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --service-sandbox-type=audio --disable-webrtc-apm-in-audio-service --shared-files
+1 S root      4285     2  0  80   0 -     0 -      12:25 ?        00:00:00 [kworker/0:1]
+1 S root      4413     2  0  80   0 -     0 -      12:28 ?        00:00:00 [kworker/u16:2]
+1 S root      4550     2  0  80   0 -     0 -      12:34 ?        00:00:00 [kworker/2:1]
+1 S root      4716     2  0  80   0 -     0 -      12:40 ?        00:00:00 [kworker/1:0]
+1 S root      4859     2  0  80   0 -     0 -      12:44 ?        00:00:00 [kworker/4:2]
+1 S root      4861     2  0  80   0 -     0 -      12:45 ?        00:00:00 [kworker/7:0]
+1 S root      4923     2  0  80   0 -     0 -      12:45 ?        00:00:00 [kworker/6:2]
+1 S root      4929     2  0  80   0 -     0 -      12:46 ?        00:00:00 [kworker/5:2]
+1 S root      4936     2  0  80   0 -     0 -      12:46 ?        00:00:00 [kworker/u16:0]
+1 S root      4958     2  0  80   0 -     0 -      12:47 ?        00:00:00 [kworker/1:2]
+1 S root      4962     2  0  80   0 -     0 -      12:48 ?        00:00:00 [kworker/0:2]
+1 S root      4969     2  0  80   0 -     0 -      12:48 ?        00:00:00 [kworker/3:0]
+1 S root      5012     2  0  80   0 -     0 -      12:50 ?        00:00:00 [kworker/7:1]
+1 S frances+  5092  2928  0  80   0 - 1210543 -    12:51 ?        00:00:01 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=76 --no-v8-untrusted-code-mitigations --shared-files
+1 S root      5124     2  0  80   0 -     0 -      12:51 ?        00:00:00 [kworker/4:0]
+1 S frances+  5128  2928  0  80   0 - 1210884 -    12:51 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=78 --no-v8-untrusted-code-mitigations --shared-files
+1 S frances+  5151  2928  0  80   0 - 1189950 -    12:51 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13675598356951988841,17481635169492445700,131072 --lang=it --enable-auto-reload --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=79 --no-v8-untrusted-code-mitigations --shared-files
+1 S root      5195     2  0  80   0 -     0 -      12:51 ?        00:00:00 [kworker/2:0]
+1 S root      5203     2  0  80   0 -     0 -      12:51 ?        00:00:00 [kworker/5:0]
+1 S root      5220     2  0  80   0 -     0 -      12:52 ?        00:00:00 [kworker/6:0]
+1 S root      5228     2  0  80   0 -     0 -      12:52 ?        00:00:00 [kworker/u16:1]
+1 S root      5250     2  0  80   0 -     0 -      12:53 ?        00:00:00 [kworker/3:2]
+1 S root      5252     2  0  80   0 -     0 -      12:53 ?        00:00:00 [kworker/1:1]
+1 S root      5299     2  0  80   0 -     0 -      12:54 ?        00:00:00 [kworker/0:0]
+0 R frances+  5301  2892  0  80   0 - 10093 -      12:54 pts/0    00:00:00 ps -elf

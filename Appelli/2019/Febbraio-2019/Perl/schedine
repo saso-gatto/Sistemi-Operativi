@@ -1,0 +1,36 @@
+#Schedina 1#
+Roma-Torino             X       1.5
+Udinese-Parma           1       2.0
+Inter-Sassuolo          X       3.0
+Frosinone-Atalanta      2       1.5
+Spal-Bologna            X       2.0
+#Importo Scommesso      10
+
+#Schedina 2#
+Juventus-Chievo         1       1.5
+Genoa-Milan             2       2.0
+Napoli-Lazio            1       1.5
+Frosinone-Atalanta      2       2.5
+#Importo Scommesso      5
+
+#Schedina 3#
+Lazio-Empoli            X       1.5
+Bologna-Genoa           1       2.0
+Chievo-Roma             X       3.0
+Sampdoria-Frosinone     2       1.5
+Torino-Udinese          X       2.0
+Sassuolo-Juventus       1       7.0
+#Importo Scommesso      5
+
+#Schedina 4#
+Lazio-Empoli            1       1.5
+Chievo-Roma             2       2.5
+Fiorentina-Napoli       X       3.0
+Parma-Inter             2       1.5
+Bologna-Genoa           X       1.5
+Sampdoria-Frosinone     2       3.5
+Atalanta-Spal           1       1.5
+Torino-Udinese          1       2.0
+Sassuolo-Juventus       2       1.5
+Milan-Cagliari          1       1.5
+#Importo Scommesso      10

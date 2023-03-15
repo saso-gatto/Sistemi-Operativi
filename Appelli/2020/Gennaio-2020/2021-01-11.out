@@ -1,0 +1,10 @@
+01.03 16:31:34 francesco kernel: [2.358780] usbcore: registered new interface driver btusb 
+01.04 16:54:17 francesco NetworkManager[475]: <info> [1578153257.3303] keyfile: add connection in-memory (debf5b15-5be6-4d6b-b593-0536ceaf0063,"docker0") 
+01.04 16:54:15 francesco kernel: [3.511779] usbcore: registered new interface driver btusb 
+01.04 16:54:14 francesco mtp-probe: checking bus 3, device 2: "/sys/devices/pci0000:00/0000:00:14.0/usb3/3-6" 
+12.23 19:03:40 francesco NetworkManager[545]: <info> [1577124220.8439] keyfile: add connection in-memory (6b17ef00-f5b9-4053-a6f6-9d1d85c8c722,"docker0") 
+12.23 19:01:23 francesco kernel: [3.277121] usbcore: registered new interface driver uvcvideo 
+12.23 19:01:22 francesco mtp-probe: checking bus 3, device 4: "/sys/devices/pci0000:00/0000:00:14.0/usb3/3-11" 
+12.23 19:03:27 francesco kernel: [2.927488] hid-multitouch 0003:04F3:21F8.0001: input,hiddev0,hidraw0: USB HID v1.10 Device [ELAN Touchscreen] on usb-0000:00:14.0-6/input0 
+12.23 19:01:32 francesco NetworkManager[482]: <info> [1577124092.4948] keyfile: add connection in-memory (60c849c1-ed1b-43d2-969e-edfc5800bc82,"docker0") 
+12.23 19:03:28 francesco kernel: [3.178885] usbcore: registered new interface driver btusb 
